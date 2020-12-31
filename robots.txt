@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://cakwiring.tiiny.site/sitemap.xml
